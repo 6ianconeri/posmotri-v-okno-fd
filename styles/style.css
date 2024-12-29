@@ -99,7 +99,6 @@ html {
   position: relative;
   height: 386px;
   margin-bottom: 16px;
-  position: relative;
 }
 
 .result__video {
@@ -260,9 +259,6 @@ fieldset {
   font-size: 18px;
   line-height: 16px;
   overflow: hidden;
-  display: -webkit-box; 
-  -webkit-box-orient: vertical; 
-  -webkit-line-clamp: 1; 
   line-clamp: 1;
 }
 
